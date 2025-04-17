@@ -2,4 +2,4 @@
 
 ## Docs
 
-- [AMP](/alysum-docs/alysum-docs/amp): This is an example page.
+- [AMP](/amp): This is an example page.
