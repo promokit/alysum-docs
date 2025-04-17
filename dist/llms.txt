@@ -1,0 +1,6 @@
+# Alysum
+
+## Docs
+
+- [AMP](/amp): This is an example page.
+- [Get started](/getting-started): Hello world!
